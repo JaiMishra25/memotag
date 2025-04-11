@@ -23,7 +23,7 @@ MemoTag is a modern, responsive website for an AI-powered wearable device design
 
 ## Live Demo
 
-[View Live Demo](#) <!-- Replace with actual demo link when deployed -->
+[View Live Demo](https://memotag-jai.vercel.app/) <!-- Replace with actual demo link when deployed -->
 
 ## Key Features
 
