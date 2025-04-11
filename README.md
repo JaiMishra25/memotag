@@ -1,17 +1,25 @@
 # MemoTag - AI-Powered Dementia Care Platform
-## Preview
 
-### 🌓 Light & Dark Mode Homepages
-
-![Light Mode](https://your-image-host.com/home-light.png)
-*Light Mode*
-
-![Dark Mode](https://your-image-host.com/home-dark.png)
-*Dark Mode*
 
 ## Overview
 
 MemoTag is a modern, responsive website for an AI-powered wearable device designed to revolutionize dementia care. The platform provides caregivers with real-time insights, safety alerts, and cognitive health tracking for loved ones with dementia.
+
+## Preview
+
+
+### 🌓 Light & Dark Mode Homepages
+
+<div align="center">
+  <img src="./public/screenshots/home-light.png" alt="Light Mode Home" width="700"/>
+  <br />
+  <em>Light Mode</em>
+  <br /><br />
+  <img src="./public/screenshots/home-dark.png" alt="Dark Mode Home" width="700"/>
+  <br />
+  <em>Dark Mode</em>
+</div>
+
 
 ## Live Demo
 
